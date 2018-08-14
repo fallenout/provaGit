@@ -24,6 +24,7 @@ public class bohController {
     	
     	areaSaluto.setText( txtNome.getText());
     	txtNome.setText("");
+    	System.out.println("hello");
     	
 
     }
